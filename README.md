@@ -2,7 +2,7 @@
 
 ## A short description of the project
 
-#### This project was made by Lucas Ezequiel.
+
 
 # 1. Business Problem.
 
